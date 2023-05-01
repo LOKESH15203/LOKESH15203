@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 <h3 align="center">An industrious developer and engineer</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.licdn.com/dms/image/C4E22AQHTm6n4mPspuw/feedshare-shrink_2048_1536/0/1672840356907?e=2147483647&v=beta&t=MXYDDgIlMEP07pCG0Jtg3JLN4SxgxzsEwMHAKmycN6I">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh15203&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh15203" /> </p>
 
