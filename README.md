@@ -1,4 +1,4 @@
-![logo]([https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif))
+![logo](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif)
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
 <h3 align="center">An industrious developer and engineer</h3>
 
