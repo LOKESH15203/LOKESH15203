@@ -10,7 +10,7 @@
 
 - 📫 You can reach me at **lokesh.sonawane15203@gmail.com**
 
-- 📄 Know about my experiences by my resume at [https://shorturl.at/ckE34](https://shorturl.at/afp08)
+- 📄 Know about my experiences by my resume at [https://shorturl.at/cgqtD](https://shorturl.at/cgqtD)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
